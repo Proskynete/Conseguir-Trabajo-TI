@@ -10,7 +10,7 @@ A continuación veremos algunas de las típicas preguntas que nos podrían pregu
 
 ### Recursos
 
-- [Frontend](https://github.com/JSConfCL/techschool/tree/main/ConseguirTrabajoTI/entrevistas/frontend.md)
-- [Backend](https://github.com/JSConfCL/techschool/tree/main/ConseguirTrabajoTI/entrevistas/backend.md)
-- [QA](https://github.com/JSConfCL/techschool/tree/main/ConseguirTrabajoTI/entrevistas/qa.md)
-- [UX-UI](https://github.com/JSConfCL/techschool/tree/main/ConseguirTrabajoTI/entrevistas/ux-ui.md)
+- [Frontend](https://github.com/Proskynete/Conseguir-Trabajo-TI/blob/main/entrevistas/frontend.md)
+- [Backend](https://github.com/Proskynete/Conseguir-Trabajo-TI/blob/main/entrevistas/backend.md)
+- [QA](https://github.com/Proskynete/Conseguir-Trabajo-TI/blob/main/entrevistas/qa.md)
+- [UX-UI](https://github.com/Proskynete/Conseguir-Trabajo-TI/blob/main/entrevistas/ux-ui.md)
